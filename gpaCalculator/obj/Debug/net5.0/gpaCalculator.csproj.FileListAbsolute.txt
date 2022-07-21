@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\bin\Debug\net5.0\gpaCalculator.exe
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\bin\Debug\net5.0\gpaCalculator.deps.json
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\bin\Debug\net5.0\gpaCalculator.runtimeconfig.json
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\bin\Debug\net5.0\gpaCalculator.runtimeconfig.dev.json
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\bin\Debug\net5.0\gpaCalculator.dll
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\bin\Debug\net5.0\gpaCalculator.pdb
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\obj\Debug\net5.0\gpaCalculator.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\obj\Debug\net5.0\gpaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\obj\Debug\net5.0\gpaCalculator.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\obj\Debug\net5.0\gpaCalculator.AssemblyInfo.cs
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\obj\Debug\net5.0\gpaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\obj\Debug\net5.0\gpaCalculator.dll
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\obj\Debug\net5.0\refint\gpaCalculator.dll
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\obj\Debug\net5.0\gpaCalculator.pdb
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\obj\Debug\net5.0\gpaCalculator.genruntimeconfig.cache
+C:\Users\hp\Desktop\GPA Calc\gpaCalculator\obj\Debug\net5.0\ref\gpaCalculator.dll
